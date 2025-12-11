@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+
+typer[all]
+requests
+
+pymongo
+redis[hiredis]>=5.0.0
+neo4j
+
+python-dotenv
+email-validator
